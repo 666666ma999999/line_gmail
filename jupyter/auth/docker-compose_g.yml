@@ -1,0 +1,12 @@
+# vi docker-compose.yml
+version: '3'
+services:
+  jupyterlab:
+    build: .
+    image: gmail-img
+    container_name: gmail
+    working_dir: /app
+    volumes:
+      - .:/app
+    tty: true
+ 

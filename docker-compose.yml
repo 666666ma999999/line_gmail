@@ -1,0 +1,15 @@
+# vi docker-compose.yml
+version: '3'
+services:
+  jupyterlab:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: gmail2
+    container_name: gmail2
+    working_dir: /app
+    restart: always
+    volumes:
+      - .:/app
+    tty: true
+ 
