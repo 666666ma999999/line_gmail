@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linesales",
+  "private_key_id": "143e984b7ae6774879c3860b5e325fe3b132d208",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrfNXR8gKKGgws\nhW+lHRvWTkpu/XXDHZ/F3lb05CSi3EFU2bIogpoUfOQHsfK+P06uTOAe/acEWXSN\nBAXcpDgVa64TjdJ4GMlya+aLSEzH5J4bUm96HFekJjlD5jfMenqePKIr90lRiOcR\n9ubGNlbV4Hpet0g5aCI+PGiPTJTBKrj2gCEiEe/aQWyfpeCiXZvkrCdhZl6OELm4\npeLwobyxkb3p1DgPzIhNTDoCRGf/47GmGxgLHXIV2RMPln/O8ZyDiert5b2U9VEJ\nU/BsrWTSsalJfJ6qu11rgNGqsNWHFSgW5VlgG7ZfbtxBXiHIP6+A003iEhFeAbBu\nCFqcqORjAgMBAAECggEAP/HJM0N4QfHLh1BsXJe5mRRRegiGAG8L9Dbfmup1ZMsX\ni2Gvpp5ogOo/B0WJ+/nUR3c//R5dSGho5upQm0Ea7pXb78uq5wBrIYDtkxMvGjx7\n3jlDezeVUI62PMTcGqGzFk0KtbU8gCw56X909wUtJQxS5P2X71wOpMFWxdRrBYng\nx5tqS0X367rv6lgHCQafmeMJGxaS5m6ycLUXNzendyuiqnHMZr5+DTnp2ivsH5dq\no1bCGTl3Xzghd/SjmqxgN8mFRazfGhvX5zP65Jeq4KfRrFi/EeXJglrvk+TDPpYH\nUz8ZWC6AbWH9Ru0uXccP/m6jTyrWbNI//y3VvPVARQKBgQDsyxY0m+0kDY5qPcI2\nTq/mlMnmwkZ7NUfEXiADcbEQsRp82PwGoEzGS78XtaNZauzTh8gXnW3QIFJNB4By\nDgjkJ+tRcza3DKcEUX5mY39vT0uH+/WKXLAT158C4YXYZFx6q/OaNYQHsnoTspjq\nsarq8nfftFMBT4aWnfeo5ZdeRQKBgQC5ZbQqkHsCVCwrdbxzaE21I5tXrAy5D8NZ\nmhLPB7JRjnJ9S4ZHq3aNROJeZG6qbcThY7IHBem+4BUpn4mZoIoSxEj3G+iTfQzf\noP47Jy5qQEoerqNlYUtxDHKPzWw4Na9OzbXFu1Di6fZaZWWjFSmT2sapkp7estkZ\n6buBs69WhwKBgBfwyIP1J9q3TCjNqa8X8YzcijU8eyfF0UW3RoFSo1ZOsaDhx0lc\nN6bszZs2EBfgSaVxWveYQRwDyI5lLcVaSefXaWFIxsVnEBPNsXvkn2O/nqFXBhJB\nIMRAzqDZ8FBahUcZz31N39VvZAxNyEwiPmeWsCv77VB6m97qhbmbzNwJAoGAQPId\n0SNX1BMEfhz6bTtGrYPRsT62HkYlWsgceqXpk6Rg+v9wBL9OAmL1IbfxBIb7hzFT\ndh5eKd15zGD05PpWJAjavqXqLXCLB/Pv22z4V4Q58tGer68LrIh9wV5m4LH9vY9W\nc/QQe80V3cjTd/O74u2q1lBkkwL4BpnYc7EsZRUCgYBpHkreHa87ezTDrDR2jLLm\nAl3rDGMR6KRHmdqDOjrg8ZBgMuXGK/EqIRUrZlWgMFJ+Q4r6X0zbRctJJfzoQLm4\nJVbkYzk9/bAwwX8KsvMfZYujE0AFWfbj1QJ4qEHsz1V/0eru0ECpiMz+yTsFj/v5\n3zwN0grFYYyoVZDCPlYuHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "linesales@linesales.iam.gserviceaccount.com",
+  "client_id": "103551100999261506352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linesales%40linesales.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

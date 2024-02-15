@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linesales",
+  "private_key_id": "03d65520f41ae9acbaaf76f04ce8c36c380b20b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgQ1bQQO1n/uWA\nsydd0I96UjQ+LIU+oPXf4eCF2q3WCA3Hvu2IU93lbJcOteVHeAmyWaOyY+8acDL4\ncg6gFW1ndne1DaUTx0je87Y8whfKV2bsEbkffOQ64+ZOQAShxcoN0T9JCMFXRfH7\nAP7H184VscfTKDRLaVLfnXKatLTmERlfOKvYAKt2jRh3exmOjtQIHREKwaM/WMQo\n0iXvYFol5xcg1kG4wVJ/EBjk+jrwhm9p3mix1iiyCHKwfeRFd6X4NIxX5Nfpsdv8\n5GszUOf55Titn2XJkj5426jpI/zaiRWfD8kClJR+o2dfzlZWDRdIOq6E4mEa9b9a\nH4tYyQ3hAgMBAAECggEAIDpKa+iSlTYp+r6MLQ5yu9tqDBKx3M1LhHEM0H4QNRk7\nhC5938tVtPwoSFoFuGCIOqhSBd6Yx41GgrWVAVYtwP+OxQbwalDJ86O4wvEZDaST\n2ucZfh6EWt9XgebXx5xZrHumqU4saxtytNIXaiKYm747e9f65CtS8grccAXk1trJ\ntjktXiewEefXNf9V90GUJLcVXOmnCz3Q2feqHPQXdQzCZKB0E9fyi0/HLo7qLKQt\nV14jhK7q4NQtDyVnPBdMWIohsCX4J8Xwkc6T/WOISHY8gG0qBdsheDeRQcwDk1J7\npViDX/DapuyP722eEDM/uojq9HbOcm1vl82Krl3PnQKBgQDarNiADhZkd5lBGvwL\n783uB+tFuxS0V+g86aOgoEZyz4uDXy9awJMmczjkyzvngGVOPee/4B/V6z8TwyWv\n0PxrxVc2OuV0Fu/fVhtnGewoAXzfqc7+L4lAU5EIWNpmIhbG14D8JwcVOFXuwr2U\nKmZEg5K7BNPygbl9NrZbTLOuWwKBgQC7niMbdyUSa7bEbNxe8MEumuiybZboAqMW\n4Ng76PEkcfTKrrJAiBk5e7O5YyXnha8lGrlvP1ZpeDtCxjbEcRdRH4cQ9JTHztUE\nQGTdj5peazy4YMS4vSb6d7Xcz/nrlMMOs0Zyt7ClBXpOcUBv2gDC/9m1Rmh3yDAA\nOaZT40ghcwKBgC8v6TAI2jAn1rxD1GvG/YsFznEno5oe9hBe4l5A97LCsnpQyekt\ncRN0/avxZyXXgQTXOvEerf/9WYksLS+5Sx7+YIllQCpC4NQywosG/vzLBWVGQVJ8\nc4OcBMnmUoqDhKK30i+XRGIB3Bk/kKUuWQ8jzT/qFMpZz+sDKWqeLI/NAoGAUi8/\nabSTRLJyaTDWh7Amr2ekLyTaSd992XO8xOGRYEma1X4ZDzOO+SM64yaPYA+rXTGL\nsTOpgqHsM5/oNbzkXeDVpZO96JitryMWDAfvsxR+kLWy9snE3Uq7G3LvI0cS+smF\nPpNAickQfnQVqelxE/pHP6UL9gx3GmImffC9lAkCgYEA1zDXYFLbvETZo5hJvguk\nozuO1365b4rttAQjC2GC+WyFfads8cA8nhQR5BQWALMNazZP4POHtrNwzlGBr7c1\ndA3blxD4CO4pRmxqQAvVZw3YapM1w28IX0t1damVnclhvcmsCb2PPCye7qbBmZHF\n/Rc+FkeVFU6Mlxa2U8E5vVM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "linesales-corrext@linesales.iam.gserviceaccount.com",
+  "client_id": "103799430352779949305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linesales-corrext%40linesales.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

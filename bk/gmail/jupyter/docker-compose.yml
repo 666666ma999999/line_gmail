@@ -1,0 +1,15 @@
+# vi docker-compose.yml
+version: '3'
+services:
+  jupyterlab:
+    build: .
+    image: gmail-img
+    container_name: gmail_jupyter
+    working_dir: /work
+    volumes:
+      - .:/work
+    ports:
+      - "8888:8888"
+    command:
+      jupyter-lab --ip 0.0.0.0 --allow-root -b localhost
+
